@@ -11,4 +11,5 @@ x86/
 *.ipch
 *.pdb
 *.exe
-*.obj*.slnx
+*.obj
+*.slnx
